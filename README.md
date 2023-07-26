@@ -1,3 +1,2 @@
-yoho! I’m Kira / @kira-rwt
-I’m interested in web development
+Welcome to my profile I'm Kira / @kira-rwt
 I’m currently learning Javascript and reactjs
